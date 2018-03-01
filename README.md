@@ -1,7 +1,7 @@
 # Advent of Code 2017 - Day 1
 This repository is an example of Advent Of Code 2017 - Day 1
 
-Link to Advent of Code: http://adventofcode.com
+Link to Advent of Code: http://adventofcode.com \n
 Link to challenge Day 1: http://adventofcode.com/2017/day/1
 
 "The captcha requires you to review a sequence of digits (your puzzle input) and find the sum of all digits that match the next digit in the list. The list is circular, so the digit after the last digit is the first digit in the list."
